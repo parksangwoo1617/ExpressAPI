@@ -1,0 +1,19 @@
+{
+  "name": "express-api",
+  "version": "0.0.1",
+  "description": "Express API SERVER",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parksangwoo1617/ExpressAPI.git"
+  },
+  "author": "parksangwoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parksangwoo1617/ExpressAPI/issues"
+  },
+  "homepage": "https://github.com/parksangwoo1617/ExpressAPI#readme"
+}
